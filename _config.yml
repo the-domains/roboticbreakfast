@@ -1,0 +1,14 @@
+layout_spectrum: 0.20326766418293118
+typography_spectrum: 0.08444621693342924
+color:
+  brandStrength: 0.5476838820613921
+  lightness: 0.7606341510545462
+  saturation: 0.1313822113443166
+  rhythmicContrast: 0.9577425322495401
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: RoboticBreakfast
