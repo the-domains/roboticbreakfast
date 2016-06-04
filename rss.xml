@@ -4,7 +4,7 @@
         <description><![CDATA[RoboticBreakfast]]></description>
         <link>https://thegrid.ai/roboticbreakfast/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 16:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 14:40:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/roboticbreakfast/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nelarguin Evolution]]></title>
@@ -12,20 +12,6 @@
             <link>https://thegrid.ai/roboticbreakfast/nelarguin-evolution/index.html</link>
             <guid isPermaLink="false">124d79ad-8de8-416b-923b-37cbcd496208</guid>
             <pubDate>Wed, 01 Jun 2016 01:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Valkyrie House Old-Fashioned Recipe]]></title>
-            <description><![CDATA[<article><h1>Valkyrie House Old-Fashioned Recipe</h1><p>This recipe is by Robert Simonson. Tell us what you think of it at The New York Times - Dining - Food.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4195654f327d207edb79fc38ad4ad8e4e86341e.jpg"></article>]]></description>
-            <link>http://cooking.nytimes.com/recipes/1017994-valkyrie-house-old-fashioned</link>
-            <guid isPermaLink="false">37f456bd-c803-458d-8abc-98ce517331b4</guid>
-            <pubDate>Wed, 01 Jun 2016 00:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jet Engine Espresso Machines : veloce espresso]]></title>
-            <description><![CDATA[<article><h1>Jet Engine Espresso Machines : veloce espresso</h1><p>veloce espresso - Designer and engineer Paolo Mastrogiuseppe spent a great deal of his career creating innovations that look like Formula 1 cars but his latest inven...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7aa68e92ee8ab4642c924f9f480741887daf0dc6.jpg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/veloce-espresso</link>
-            <guid isPermaLink="false">411f31c4-f483-4e98-a13d-d252f8cf0405</guid>
-            <pubDate>Wed, 01 Jun 2016 00:54:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
